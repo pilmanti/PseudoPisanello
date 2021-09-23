@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 102,
+    "height" : 62
+  }, {
+    "width" : 204,
+    "height" : 123
+  }, {
+    "width" : 408,
+    "height" : 245
+  }, {
+    "width" : 816,
+    "height" : 490
+  }, {
+    "width" : 1631,
+    "height" : 980
+  }, {
+    "width" : 3262,
+    "height" : 1960
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3262,
+  "@id" : "https://pilmanti.github.io/PseudoPisanello/images/200730_030158a",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1960
+}
