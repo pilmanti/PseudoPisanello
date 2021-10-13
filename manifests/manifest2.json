@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/manifest2.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "[Göttinger Pseudo-Pisanello]",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[Diese Hundezeichnung wurde immer als in der Art des Pisanello bezeichnet, dabei scheint der Stil auf eine spätere Epoche hinzudeuten.]",
