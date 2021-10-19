@@ -1,0 +1,75 @@
+{
+  "startIndex" : 0,
+  "within" : {
+    "total" : 4,
+    "@type" : "sc:Layer"
+  },
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-511b03bc-7fff-dc05-8d84-1824b6ed8b2d\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Viele Bl&auml;tter des Werkstatt-Nachlasses kamen als Codex Vallardi in den Louvre,viii aber z.B. auch in die Bibliotheca Ambrosiana in Mailand,ix und die Zeichnungen stehen, trotz der verschiedenen ausf&uuml;hrenden H&auml;nde, an der Schwelle zwischen Muster- und Skizzenbuch.x Allerdings betont Jochen Wagner in der einzigen Ver&ouml;ffentlichung &uuml;ber das Blatt, die Gestaltung der G&ouml;ttinger Zeichnung zeige, dass sie nicht aus Pisanellos Zeit und Umkreis stammen k&ouml;nne.xi Verglichen mit einer Vorzeichnung des Hundes auf dem Georgs-Fresko (ABB.),xii legte der Zeichner des G&ouml;ttinger Blattes etwa gro&szlig;en Wert auf die plastische Ausgestaltung der Muskulatur in gebogenen Schraffuren, teilweise Kreuzschraffur, die sich laut Elen erst um 1400, nach Fischer ab ca. 1450 entwickelte.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-511b03bc-7fff-dc05-8d84-1824b6ed8b2d\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Viele Bl&auml;tter des Werkstatt-Nachlasses kamen als Codex Vallardi in den Louvre,viii aber z.B. auch in die Bibliotheca Ambrosiana in Mailand,ix und die Zeichnungen stehen, trotz der verschiedenen ausf&uuml;hrenden H&auml;nde, an der Schwelle zwischen Muster- und Skizzenbuch.x Allerdings betont Jochen Wagner in der einzigen Ver&ouml;ffentlichung &uuml;ber das Blatt, die Gestaltung der G&ouml;ttinger Zeichnung zeige, dass sie nicht aus Pisanellos Zeit und Umkreis stammen k&ouml;nne.xi Verglichen mit einer Vorzeichnung des Hundes auf dem Georgs-Fresko (ABB.),xii legte der Zeichner des G&ouml;ttinger Blattes etwa gro&szlig;en Wert auf die plastische Ausgestaltung der Muskulatur in gebogenen Schraffuren, teilweise Kreuzschraffur, die sich laut Elen erst um 1400, nach Fischer ab ca. 1450 entwickelte.</span></span></p>"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/91268872",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2021-10-19T11:59:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1634644774373",
+    "dcterms:modified" : "2021-10-19T11:59:34",
+    "label" : "<span id=\"docs-internal-guid-511b03bc-7fff-dc05-8d84-1824b6ed8b2d\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Viele Bl&auml;tter des Werkstatt-Nachlasses kamen als Codex Vallardi in den Louvre,viii aber z.B. auch in die Bibliotheca Ambrosiana in Mailand,ix und die Zeichnungen stehen, trotz der verschiedenen ausf&uuml;hrenden H&auml;nde, an der Schwelle zwischen Muster- und Skizzenbuch.x Allerdings betont Jochen Wagner in der einzigen Ver&ouml;ffentlichung &uuml;ber das Blatt, die Gestaltung der G&ouml;ttinger Zeichnung zeige, dass sie nicht aus Pisanellos Zeit und Umkreis stammen k&ouml;nne.xi Verglichen mit einer Vorzeichnung des Hundes auf dem Georgs-Fresko (ABB.),xii legte der Zeichner des G&ouml;ttinger Blattes etwa gro&szlig;en Wert auf die plastische Ausgestaltung der Muskulatur in gebogenen Schraffuren, teilweise Kreuzschraffur, die sich laut Elen erst um 1400, nach Fischer ab ca. 1450 entwickelte. ",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : "http://3f39103b-bacd-4cc7-a728-9e269d2a91a3#xywh=177,210,1650,1149"
+  }, {
+    "resource" : {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-81455c52-7fff-b81f-f42d-787670852622\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&bdquo;In der Art Pisanellos&ldquo; wird auch die kleine, an allen Seiten stark beschnittene Zeichnung eines springenden Windhundes der Kunstsammlung G&ouml;ttingen bezeichnet.iii Die Provenienz des Blattes liefert leider keine Anhaltspunkte einer historischen Zuschreibung: Das Blatt tr&auml;gt zwar den Stempel des G&ouml;ttinger Altbestandes, es taucht aber nicht in dem Inventar Fiorillos um 1800 auf.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-81455c52-7fff-b81f-f42d-787670852622\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&bdquo;In der Art Pisanellos&ldquo; wird auch die kleine, an allen Seiten stark beschnittene Zeichnung eines springenden Windhundes der Kunstsammlung G&ouml;ttingen bezeichnet.iii Die Provenienz des Blattes liefert leider keine Anhaltspunkte einer historischen Zuschreibung: Das Blatt tr&auml;gt zwar den Stempel des G&ouml;ttinger Altbestandes, es taucht aber nicht in dem Inventar Fiorillos um 1800 auf.</span></span></p>"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/91268872",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2021-10-19T11:50:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1634644230790",
+    "dcterms:modified" : "2021-10-19T11:50:30",
+    "label" : "<span id=\"docs-internal-guid-81455c52-7fff-b81f-f42d-787670852622\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&bdquo;In der Art Pisanellos&ldquo; wird auch die kleine, an allen Seiten stark beschnittene Zeichnung eines springenden Windhundes der Kunstsammlung G&ouml;ttingen bezeichnet.iii Die Provenienz des Blattes liefert leider keine Anhaltspunkte einer historischen Zuschreibung: Das Blatt tr&auml;gt zwar den Stempel des G&ouml;ttinger Altbestandes, es taucht aber nicht in dem Inventar Fiorillos um 1800 auf. ",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : "http://95bef456-c87b-4f84-967b-3446bd221c57#xywh=2539,1257,728,703"
+  }, {
+    "resource" : {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-6a90d522-7fff-2987-0e2c-9abf68b7ac56\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Pisanello und sein Umkreis arbeiteten sparsamer mit Schraffuren, siehe Drei Hundestudien (ABB.) aus der Albertina in Wien.xiv Die grazilen K&ouml;rper, das Fell zumindest angedeutet, passen nicht zu der Modellierung und der unnat&uuml;rlichen Haltung des G&ouml;ttinger Hundes. &bdquo;Der eigent&uuml;mliche Kontrast zwischen dem ornamental geringelten Schwanz und dem naturalistisch durchgestalteten K&ouml;rper des Hundes&ldquo;, f&auml;llt Wagner besonders auf. Diese Ornamentalit&auml;t spricht daf&uuml;r, dass der Hund nicht f&uuml;r realit&auml;tsnahe Szenen, sondern als Muster, vielleicht als &Uuml;bung oder f&uuml;r den Gebrauch in verschiedenen Kontexten gedacht war.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-6a90d522-7fff-2987-0e2c-9abf68b7ac56\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Pisanello und sein Umkreis arbeiteten sparsamer mit Schraffuren, siehe Drei Hundestudien (ABB.) aus der Albertina in Wien.xiv Die grazilen K&ouml;rper, das Fell zumindest angedeutet, passen nicht zu der Modellierung und der unnat&uuml;rlichen Haltung des G&ouml;ttinger Hundes. &bdquo;Der eigent&uuml;mliche Kontrast zwischen dem ornamental geringelten Schwanz und dem naturalistisch durchgestalteten K&ouml;rper des Hundes&ldquo;, f&auml;llt Wagner besonders auf. Diese Ornamentalit&auml;t spricht daf&uuml;r, dass der Hund nicht f&uuml;r realit&auml;tsnahe Szenen, sondern als Muster, vielleicht als &Uuml;bung oder f&uuml;r den Gebrauch in verschiedenen Kontexten gedacht war.</span></span></p>"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/91268872",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2021-10-19T12:00:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1634644844032",
+    "dcterms:modified" : "2021-10-19T12:00:44",
+    "label" : "<span id=\"docs-internal-guid-6a90d522-7fff-2987-0e2c-9abf68b7ac56\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Pisanello und sein Umkreis arbeiteten sparsamer mit Schraffuren, siehe Drei Hundestudien (ABB.) aus der Albertina in Wien.xiv Die grazilen K&ouml;rper, das Fell zumindest angedeutet, passen nicht zu der Modellierung und der unnat&uuml;rlichen Haltung des G&ouml;ttinger Hundes. &bdquo;Der eigent&uuml;mliche Kontrast zwischen dem ornamental geringelten Schwanz und dem naturalistisch durchgestalteten K&ouml;rper des Hundes&ldquo;, f&auml;llt Wagner besonders auf. Diese Ornamentalit&auml;t spricht daf&uuml;r, dass der Hund nicht f&uuml;r realit&auml;tsnahe Szenen, sondern als Muster, vielleicht als &Uuml;bung oder f&uuml;r den Gebrauch in verschiedenen Kontexten gedacht war. ",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : "http://62af1aa8-8023-4f95-976b-2b43c0496c3b#xywh=153,129,766,507"
+  }, {
+    "resource" : {
+      "http://dev.llgc.org.uk/sas/full_text" : "&nbsp;\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">F&uuml;r den G&ouml;ttinger Hund konnte bis jetzt keine Verwandtschaft mit einem Gem&auml;lde oder mit Objekten aus dem Kunsthandwerk festgestellt werden.xix Durch die h&auml;ufig auftretende Ikonographie, den starken Beschnitt sowie die wenigen Quellen, leider ein h&auml;ufiges Problem in graphischen Kabinetten,xx bleibt die Urheberschaft und der Zweck des Blattes erst einmal ein R&auml;tsel.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">F&uuml;r den G&ouml;ttinger Hund konnte bis jetzt keine Verwandtschaft mit einem Gem&auml;lde oder mit Objekten aus dem Kunsthandwerk festgestellt werden.xix Durch die h&auml;ufig auftretende Ikonographie, den starken Beschnitt sowie die wenigen Quellen, leider ein h&auml;ufiges Problem in graphischen Kabinetten,xx bleibt die Urheberschaft und der Zweck des Blattes erst einmal ein R&auml;tsel.</span></p>"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/91268872",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2021-10-19T12:01:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1634644898583",
+    "dcterms:modified" : "2021-10-19T12:01:38",
+    "label" : "&nbsp;\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">F&uuml;r den G&ouml;ttinger Hund konnte bis jetzt keine Verwandtschaft mit einem Gem&auml;lde oder mit Objekten aus dem Kunsthandwerk festgestellt werden.xix Durch die h&auml;ufig auftretende Ikonographie, den starken Beschnitt sowie die wenigen Quellen, leider ein h&auml;ufiges Problem in graphischen Kabinetten,xx bleibt die Urheberschaft und der Zweck des Blattes erst einmal ein R&auml;tsel. ",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : "http://76a0cfe8-baba-4c95-a8a4-7f5ad3970813#xywh=132,146,2983,1703"
+  } ],
+  "@id" : "https://pilmanti.github.io/PseudoPisanello/annotations/annotation.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
