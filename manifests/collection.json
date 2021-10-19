@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/eustachius.json",
     "label" : "[Göttinger Pseudo-Pisanello]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/ansicht.json",
+    "label" : "[Göttinger Pseudo-Pisanello]"
   } ]
 }
