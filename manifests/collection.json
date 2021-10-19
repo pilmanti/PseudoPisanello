@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/manifest2.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/eustachius.json",
+    "label" : "[Göttinger Pseudo-Pisanello]"
   } ]
 }
