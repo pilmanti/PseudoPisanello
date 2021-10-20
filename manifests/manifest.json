@@ -1,55 +1,60 @@
 {
-  "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/manifest.json",
-  "@type" : "sc:Manifest",
-  "label" : "köter",
-  "metadata" : [ ],
-  "description" : [ {
-    "@value" : "einfaches Manifest zum Testen der Kommentare",
-    "@language" : "dt"
-  } ],
-  "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "blaAttribution",
-  "sequences" : [ {
-    "@id" : "http://bd2f7e64-3aad-448e-8869-59ed5a2dc158",
-    "@type" : "sc:Sequence",
-    "label" : [ {
-      "@value" : "Normal Sequence",
-      "@language" : "en"
-    } ],
-    "canvases" : [ {
-      "@id" : "http://586c804a-b21f-497b-be7a-b8fb6d79a4e0",
-      "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
-      "height" : 1960,
-      "width" : 3262,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://eefd9e2c-1e54-4362-95df-3553dcb4a04f",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "tif", "png", "jpg" ],
-              "qualities" : [ "bitonal", "gray", "color" ],
-              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "profileLinkHeader", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "rotationBy90s", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
-              "maxWidth" : 10000,
-              "maxHeight" : 10000
-            } ]
-          },
-          "height" : 1960,
-          "width" : 3262
-        },
-        "on" : "http://586c804a-b21f-497b-be7a-b8fb6d79a4e0"
-      } ],
-      "related" : ""
-    } ]
-  } ],
-  "structures" : [ ]
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://pilmanti.github.io/PseudoPisanello/manifests/manifest.json",
+	"@type": "sc:Manifest",
+	"label": "köter",
+	"metadata": [],
+	"description": [{
+		"@value": "einfaches Manifest zum Testen der Kommentare",
+		"@language": "dt"
+	}],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "blaAttribution",
+	"sequences": [{
+		"@id": "http://bd2f7e64-3aad-448e-8869-59ed5a2dc158",
+		"@type": "sc:Sequence",
+		"label": [{
+			"@value": "Normal Sequence",
+			"@language": "en"
+		}],
+		"canvases": [{
+			"@id": "http://586c804a-b21f-497b-be7a-b8fb6d79a4e0",
+			"@type": "sc:Canvas",
+			"label": "Empty canvas",
+			"height": 1960,
+			"width": 3262,
+			"images": [{
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@id": "http://eefd9e2c-1e54-4362-95df-3553dcb4a04f",
+				"@type": "oa:Annotation",
+				"motivation": "sc:painting",
+				"resource": {
+					"@id": "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg/full/full/0/default.jpg",
+					"@type": "dctypes:Image",
+					"format": "image/jpeg",
+					"service": {
+						"@context": "http://iiif.io/api/image/2/context.json",
+						"@id": "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg",
+						"profile": ["http://iiif.io/api/image/2/level2.json", {
+							"formats": ["tif", "png", "jpg"],
+							"qualities": ["bitonal", "gray", "color"],
+							"supports": ["baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "profileLinkHeader", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "rotationBy90s", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh"],
+							"maxWidth": 10000,
+							"maxHeight": 10000
+						}]
+					},
+					"height": 1960,
+					"width": 3262,
+                  "on": "http://586c804a-b21f-497b-be7a-b8fb6d79a4e0"}
+
+            }],
+          "otherContent": [{
+					"@id": "https://dev.gdmrdigital.com/annotations/1245635613/91268872/f8e24dea1c91269dd64a01448b82e027.json",
+					"@type": "sc:AnnotationList",
+					"label": "My fantastic annotations"
+				}],
+			"related": ""
+		}]
+	}],
+	"structures": []
 }
