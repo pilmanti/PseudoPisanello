@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://pilmanti.github.io/PseudoPisanello/annotations/data.json", "https://pilmanti.github.io/PseudoPisanello/annotations/annotation.json" ],
+  "otherContent" : [ "https://pilmanti.github.io/PseudoPisanello/annotations/data.json", "https://pilmanti.github.io/PseudoPisanello/annotations/annotation.json", "https://pilmanti.github.io/PseudoPisanello/annotations/koeterannos.json" ],
   "@id" : "https://pilmanti.github.io/PseudoPisanello/annotations/collection.json",
   "label" : "All annotations loaded in pilmanti/PseudoPisanello project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
