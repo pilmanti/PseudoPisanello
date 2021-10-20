@@ -1,189 +1,180 @@
 {
-	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://pilmanti.github.io/PseudoPisanello/manifests/eustachius.json",
-	"@type": "sc:Manifest",
-	"label": "[Göttinger Pseudo-Pisanello]",
-	"metadata": [],
-	"description": [{
-		"@value": "[Diese Hundezeichnung wurde immer als in der Art des Pisanello bezeichnet, dabei scheint der Stil auf eine spätere Epoche hinzudeuten.]",
-		"@language": "de"
-	}],
-	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "[Pseudo-Pisanello]",
-	"sequences": [{
-		"@id": "http://527f971a-0d6a-434f-8b61-48c834fff082",
-		"@type": "sc:Sequence",
-		"label": [{
-			"@value": "Normal Sequence",
-			"@language": "en"
-		}],
-		"canvases": [{
-			"@id": "http://2c67c08f-6dd0-4cd9-adb7-daa194961b13",
-			"@type": "sc:Canvas",
-			"label": "Heiliger Eustachius",
-			"height": 658,
-			"width": 800,
-			"images": [{
-				"@context": "http://iiif.io/api/presentation/2/context.json",
-				"@id": "http://96dc76c0-1794-4ad9-b5c0-fcdcd90c567b",
-				"@type": "oa:Annotation",
-				"motivation": "sc:painting",
-				"resource": {
-					"@id": "https://media.ng-london.org.uk/iiif/009-00HH-0000/full/full/0/default.jpg",
-					"@type": "dctypes:Image",
-					"format": "image/jpeg",
-					"service": {
-						"@context": "http://iiif.io/api/image/2/context.json",
-						"@id": "https://media.ng-london.org.uk/iiif/009-00HH-0000",
-						"profile": ["http://iiif.io/api/image/2/level1.json", {
-							"formats": ["jpg"],
-							"qualities": ["native", "color", "gray"],
-							"supports": ["regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring"]
-						}]
-					},
-					"height": 658,
-					"width": 800
-				},
-				"on": "http://2c67c08f-6dd0-4cd9-adb7-daa194961b13"
-			}],
-			"otherContent": [{
-				"@id": "https://github.com/pilmanti/PseudoPisanello/edit/main/annotations/annotation.json",
-				"@type": "sc:AnnotationList",
-				"label": "My fantastic annotations"
-			}]
-		}],
-		"related": ""
-	}, {
-		"@id": "http://95bef456-c87b-4f84-967b-3446bd221c57",
-		"@type": "sc:Canvas",
-		"label": "Göttinger Hund",
-		"height": 1960,
-		"width": 3262,
-		"images": [{
-			"@context": "http://iiif.io/api/presentation/2/context.json",
-			"@id": "http://ecc0a965-ab55-4100-bb35-e363c61a1ff7",
-			"@type": "oa:Annotation",
-			"motivation": "sc:painting",
-			"resource": {
-				"@id": "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg/full/full/0/default.jpg",
-				"@type": "dctypes:Image",
-				"format": "image/jpeg",
-				"service": {
-					"@context": "http://iiif.io/api/image/2/context.json",
-					"@id": "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg",
-					"profile": ["http://iiif.io/api/image/2/level2.json", {
-						"formats": ["tif", "png", "jpg"],
-						"qualities": ["bitonal", "gray", "color"],
-						"supports": ["baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "profileLinkHeader", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "rotationBy90s", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh"],
-						"maxWidth": 10000,
-						"maxHeight": 10000
-					}]
-				},
-				"height": 1960,
-				"width": 3262
-			},
-			"on": "http://95bef456-c87b-4f84-967b-3446bd221c57"
-		}],
-		"otherContent": [{
-			"@id": "https://github.com/pilmanti/PseudoPisanello/edit/main/annotations/annotation.json",
-			"@type": "sc:AnnotationList",
-			"label": "My fantastic annotations"
-		}],
-		"related": ""
-	}, {
-		"@id": "http://62af1aa8-8023-4f95-976b-2b43c0496c3b",
-		"@type": "sc:Canvas",
-		"label": "Albertina ",
-		"height": 843,
-		"width": 1200,
-		"images": [{
-			"@context": "http://iiif.io/api/presentation/2/context.json",
-			"@id": "http://0350ccde-b052-4390-b405-bc52d3ebfa97",
-			"@type": "oa:Annotation",
-			"motivation": "sc:painting",
-			"resource": {
-				"@id": "https://sammlungenonline.albertina.at/iiif%2Fimages%2f4834v.JPG/full/full/0/default.jpg",
-				"@type": "dctypes:Image",
-				"format": "image/jpeg",
-				"service": {
-					"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
-					"@id": "https://sammlungenonline.albertina.at/iiif%2Fimages%2f4834v.JPG",
-					"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
-				},
-				"height": 843,
-				"width": 1200
-			},
-			"on": "http://62af1aa8-8023-4f95-976b-2b43c0496c3b"
-		}],
-		"related": ""
-	}, {
-		"@id": "http://3f39103b-bacd-4cc7-a728-9e269d2a91a3",
-		"@type": "sc:Canvas",
-		"label": "Bildvergleich",
-		"height": 1960,
-		"width": 3262,
-		"images": [{
-			"@context": "http://iiif.io/api/presentation/2/context.json",
-			"@id": "http://eff0f457-4411-436b-93c2-740cd303d89f",
-			"@type": "oa:Annotation",
-			"motivation": "sc:painting",
-			"resource": {
-				"@id": "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg/full/full/0/default.jpg",
-				"@type": "dctypes:Image",
-				"format": "image/jpeg",
-				"service": {
-					"@context": "http://iiif.io/api/image/2/context.json",
-					"@id": "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg",
-					"profile": ["http://iiif.io/api/image/2/level2.json", {
-						"formats": ["tif", "png", "jpg"],
-						"qualities": ["bitonal", "gray", "color"],
-						"supports": ["baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "profileLinkHeader", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "rotationBy90s", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh"],
-						"maxWidth": 10000,
-						"maxHeight": 10000
-					}]
-				},
-				"height": 1960,
-				"width": 3262
-			},
-			"on": "http://3f39103b-bacd-4cc7-a728-9e269d2a91a3"
-		}],
-		"related": {
-			"@id": "https://sammlungenonline.albertina.at/iiif%2Fimages%2f4834v.JPG/full/full/0/default.jpg",
-			"label": "",
-			"format": ""
-		}
-	}, {
-		"@id": "http://76a0cfe8-baba-4c95-a8a4-7f5ad3970813",
-		"@type": "sc:Canvas",
-		"label": "Empty canvas",
-		"height": 1960,
-		"width": 3262,
-		"images": [{
-			"@context": "http://iiif.io/api/presentation/2/context.json",
-			"@id": "http://b67184af-d760-4a81-ae9e-268496a84e69",
-			"@type": "oa:Annotation",
-			"motivation": "sc:painting",
-			"resource": {
-				"@id": "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg/full/full/0/default.jpg",
-				"@type": "dctypes:Image",
-				"format": "image/jpeg",
-				"service": {
-					"@context": "http://iiif.io/api/image/2/context.json",
-					"@id": "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg",
-					"profile": ["http://iiif.io/api/image/2/level2.json", {
-						"formats": ["tif", "png", "jpg"],
-						"qualities": ["bitonal", "gray", "color"],
-						"supports": ["baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "profileLinkHeader", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "rotationBy90s", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh"],
-						"maxWidth": 10000,
-						"maxHeight": 10000
-					}]
-				},
-				"height": 1960,
-				"width": 3262
-			},
-			"on": "http://76a0cfe8-baba-4c95-a8a4-7f5ad3970813"
-		}],
-		"related": "",
-		"metadata": []
-	}]
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/eustachius.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Göttinger Pseudo-Pisanello]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Diese Hundezeichnung wurde immer als in der Art des Pisanello bezeichnet, dabei scheint der Stil auf eine spätere Epoche hinzudeuten.]",
+    "@language" : "de"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Pseudo-Pisanello]",
+  "sequences" : [ {
+    "@id" : "http://527f971a-0d6a-434f-8b61-48c834fff082",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://2c67c08f-6dd0-4cd9-adb7-daa194961b13",
+      "@type" : "sc:Canvas",
+      "label" : "Heiliger Eustachius",
+      "height" : 658,
+      "width" : 800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://96dc76c0-1794-4ad9-b5c0-fcdcd90c567b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://media.ng-london.org.uk/iiif/009-00HH-0000/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://media.ng-london.org.uk/iiif/009-00HH-0000",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 658,
+          "width" : 800
+        },
+        "on" : "http://2c67c08f-6dd0-4cd9-adb7-daa194961b13"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://95bef456-c87b-4f84-967b-3446bd221c57",
+      "@type" : "sc:Canvas",
+      "label" : "Göttinger Hund",
+      "height" : 1960,
+      "width" : 3262,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ecc0a965-ab55-4100-bb35-e363c61a1ff7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "png", "jpg" ],
+              "qualities" : [ "bitonal", "gray", "color" ],
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "profileLinkHeader", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "rotationBy90s", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "maxWidth" : 10000,
+              "maxHeight" : 10000
+            } ]
+          },
+          "height" : 1960,
+          "width" : 3262
+        },
+        "on" : "http://95bef456-c87b-4f84-967b-3446bd221c57"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://62af1aa8-8023-4f95-976b-2b43c0496c3b",
+      "@type" : "sc:Canvas",
+      "label" : "Albertina ",
+      "height" : 843,
+      "width" : 1200,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0350ccde-b052-4390-b405-bc52d3ebfa97",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sammlungenonline.albertina.at/iiif%2Fimages%2f4834v.JPG/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://sammlungenonline.albertina.at/iiif%2Fimages%2f4834v.JPG",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 843,
+          "width" : 1200
+        },
+        "on" : "http://62af1aa8-8023-4f95-976b-2b43c0496c3b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3f39103b-bacd-4cc7-a728-9e269d2a91a3",
+      "@type" : "sc:Canvas",
+      "label" : "Bildvergleich",
+      "height" : 1960,
+      "width" : 3262,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://eff0f457-4411-436b-93c2-740cd303d89f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "png", "jpg" ],
+              "qualities" : [ "bitonal", "gray", "color" ],
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "profileLinkHeader", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "rotationBy90s", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "maxWidth" : 10000,
+              "maxHeight" : 10000
+            } ]
+          },
+          "height" : 1960,
+          "width" : 3262
+        },
+        "on" : "http://3f39103b-bacd-4cc7-a728-9e269d2a91a3"
+      } ],
+      "related" : {
+        "@id" : "https://sammlungenonline.albertina.at/iiif%2Fimages%2f4834v.JPG/full/full/0/default.jpg",
+        "label" : "",
+        "format" : ""
+      }
+    }, {
+      "@id" : "http://76a0cfe8-baba-4c95-a8a4-7f5ad3970813",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1960,
+      "width" : 3262,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b67184af-d760-4a81-ae9e-268496a84e69",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "png", "jpg" ],
+              "qualities" : [ "bitonal", "gray", "color" ],
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "profileLinkHeader", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "rotationBy90s", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "maxWidth" : 10000,
+              "maxHeight" : 10000
+            } ]
+          },
+          "height" : 1960,
+          "width" : 3262
+        },
+        "on" : "http://76a0cfe8-baba-4c95-a8a4-7f5ad3970813"
+      } ],
+      "related" : "",
+      "metadata" : [ ]
+    } ]
+  } ],
+  "structures" : [ ]
 }
