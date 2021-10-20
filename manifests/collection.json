@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/fixhierarchy.json",
     "label" : "[Göttinger Pseudo-Pisanello]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/manifest.json",
+    "label" : "köter"
   } ]
 }
