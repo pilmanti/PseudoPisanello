@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-81455c52-7fff-b81f-f42d-787670852622\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&bdquo;In der Art Pisanellos&ldquo; wird auch die kleine, an allen Seiten stark beschnittene Zeichnung eines springenden Windhundes der Kunstsammlung G&ouml;ttingen bezeichnet.iii Die Provenienz des Blattes liefert leider keine Anhaltspunkte einer historischen Zuschreibung: Das Blatt tr&auml;gt zwar den Stempel des G&ouml;ttinger Altbestandes, es taucht aber nicht in dem Inventar Fiorillos um 1800 auf.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-81455c52-7fff-b81f-f42d-787670852622\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&bdquo;In der Art Pisanellos&ldquo; wird auch die kleine, an allen Seiten stark beschnittene Zeichnung eines springenden Windhundes der Kunstsammlung G&ouml;ttingen bezeichnet.iii Die Provenienz des Blattes liefert leider keine Anhaltspunkte einer historischen Zuschreibung: Das Blatt tr&auml;gt zwar den Stempel des G&ouml;ttinger Altbestandes, es taucht aber nicht in dem Inventar Fiorillos um 1800 auf.</span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/91268872",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2021-10-19T11:50:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1634644230790",
+    "dcterms:modified" : "2021-10-19T11:50:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/ansicht.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2539,1257,728,703"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3160.66562,1857.00332c-67.24774,59.06528 -162.11156,103.04918 -257.4351,102.99664v0v0c-95.32353,-0.05255 -178.36632,-41.19879 -257.4351,-102.99664c-79.06877,-61.79785 -109.8018,-155.96584 -106.63311,-248.65587c3.16869,-92.69004 40.23911,-183.90212 106.63311,-248.65587c66.39399,-64.75376 162.11156,-103.04918 257.4351,-102.99664c95.32353,0.05255 190.25303,38.45308 257.4351,102.99664c67.18206,64.54356 106.61669,155.23015 106.63311,248.65587c0.01642,93.42573 -39.38537,189.5906 -106.63311,248.65587z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_3b528fb6-ac51-43b0-b058-23b52453edcf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://95bef456-c87b-4f84-967b-3446bd221c57"
+    } ]
+  } ],
+  "@id" : "https://pilmanti.github.io/PseudoPisanello/annotations/koeterannos.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
