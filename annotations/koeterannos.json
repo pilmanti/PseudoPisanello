@@ -11,7 +11,7 @@
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/91268872",
     "motivation" : [ "oa:commenting" ],
     "dcterms:created" : "2021-10-19T11:50:30",
-    "@id" : "https://pilmanti.github.io/PseudoPisanello/annotations/koeterannos.json",
+    "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/91268872/f8e24dea1c91269dd64a01448b82e027.json",
     "dcterms:modified" : "2021-10-19T11:50:30",
     "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
     "on" : [ {
