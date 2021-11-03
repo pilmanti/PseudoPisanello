@@ -17,7 +17,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/ansicht.json"
+        "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/eustachius.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
