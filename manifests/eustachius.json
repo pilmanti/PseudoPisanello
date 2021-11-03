@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/eustachius.json",
   "@type" : "sc:Manifest",
-  "label" : "[Göttinger Pseudo-Pisanello]",
+  "label" : "Göttinger Pseudo-Pisanello",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Diese Hundezeichnung wurde immer als in der Art des Pisanello bezeichnet, dabei scheint der Stil auf eine spätere Epoche hinzudeuten.]",
+    "@value" : "Diese Hundezeichnung wurde immer als in der Art des Pisanello bezeichnet, dabei scheint der Stil auf eine spätere Epoche hinzudeuten.",
     "@language" : "de"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Pseudo-Pisanello]",
+  "attribution" : "Pseudo-Pisanello",
   "sequences" : [ {
     "@id" : "http://527f971a-0d6a-434f-8b61-48c834fff082",
     "@type" : "sc:Sequence",
@@ -78,6 +78,10 @@
         },
         "on" : "http://95bef456-c87b-4f84-967b-3446bd221c57"
       } ],
+		"otherContent": [{
+					"@id": "https://pilmanti.github.io/PseudoPisanello/annotations/koeterannos.json",
+					"@type": "sc:AnnotationList",
+          "label": "My fantastic annotations"}],
       "related" : ""
     }, {
       "@id" : "http://62af1aa8-8023-4f95-976b-2b43c0496c3b",
@@ -177,4 +181,4 @@
     } ]
   } ],
   "structures" : [ ]
-}
+  }
