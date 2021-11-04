@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/manifest.json",
     "label" : "köter"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/fertigesPisanellomanifest.json",
+    "label" : "Pisanello Hundezeichnung"
   } ]
 }
