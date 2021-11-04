@@ -1,0 +1,111 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/fertigesPisanellomanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Pisanello Hundezeichnung",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Eine Hundezeichnung aus der Kunstsammlung der Universität Göttingen",
+    "@language" : "de"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://cdf3848a-0bf1-4061-bfe9-bb10a8224828",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://6572ea6b-1673-46b4-a600-a691f285c703",
+      "@type" : "sc:Canvas",
+      "label" : "Eustachius ",
+      "height" : 658,
+      "width" : 800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://530d735e-3c2a-41a2-b34b-f716c92d5948",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://media.ng-london.org.uk/iiif/009-00HH-0000/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://media.ng-london.org.uk/iiif/009-00HH-0000",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 658,
+          "width" : 800
+        },
+        "on" : "http://6572ea6b-1673-46b4-a600-a691f285c703"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c21f4722-9c52-4c0f-bddf-d6f79210985e",
+      "@type" : "sc:Canvas",
+      "label" : "Hundezeichnung aus der Universität Göttingen",
+      "height" : 1960,
+      "width" : 3262,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://75a8db57-39f1-4003-8443-fae211b91baa",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sammlungen.uni-goettingen.de/api/v1/records/record_kuniweb_665750/files/images/record_kuniweb_665750_729816.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "png", "jpg" ],
+              "qualities" : [ "bitonal", "gray", "color" ],
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "profileLinkHeader", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "rotationBy90s", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "maxWidth" : 10000,
+              "maxHeight" : 10000
+            } ]
+          },
+          "height" : 1960,
+          "width" : 3262
+        },
+        "on" : "http://c21f4722-9c52-4c0f-bddf-d6f79210985e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://81d9d6a0-7606-47ca-8dbe-a58be6f37443",
+      "@type" : "sc:Canvas",
+      "label" : "Pisanello-Zeichnung aus der Albertina",
+      "height" : 843,
+      "width" : 1200,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://95c63d55-4c9a-43b7-8d64-9b015a87bbf2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sammlungenonline.albertina.at/iiif%2Fimages%2f4834v.JPG/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://sammlungenonline.albertina.at/iiif%2Fimages%2f4834v.JPG",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 843,
+          "width" : 1200
+        },
+        "on" : "http://81d9d6a0-7606-47ca-8dbe-a58be6f37443"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
