@@ -9,7 +9,7 @@
     "@language" : "de"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "in der Art des Pisanello",
   "sequences" : [ {
     "@id" : "http://cdf3848a-0bf1-4061-bfe9-bb10a8224828",
     "@type" : "sc:Sequence",
