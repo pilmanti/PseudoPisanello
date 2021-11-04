@@ -107,7 +107,7 @@
       "related" : ""
     } ]
   } ],
- "structures": [
+"structures": [
         {
           "@id": "http://example.org/iiif/book1/range/r0",
           "@type": "sc:Range",
@@ -116,14 +116,34 @@
                 {
                   "@id": "http://example.org/iiif/book1/range/r1",
                   "@type": "sc:Range",
-                  "label": "Introduction"
+                  "label": "Eustachius"
+                },
+            {
+                  "@id": "http://example.org/iiif/book1/range/r1",
+                  "@type": "sc:Range",
+                  "label": "Göttinger Pisanello-Zeichnung"
+                },
+            {
+                  "@id": "http://example.org/iiif/book1/range/r1",
+                  "@type": "sc:Range",
+                  "label": "Pisanello-Zeichnung aus der Albertina"
                 }
           ]
         },
         {
               "@id": "http://example.org/iiif/book1/range/r1",
               "@type": "sc:Range",
-              "label": "Introduction",
-              "canvases": ["$YOUR_CANVAS_ID"]
+              "label": "Eustachius",
+              "canvases": ["http://6572ea6b-1673-46b4-a600-a691f285c703"],
+          
+      	    "@id": "http://example.org/iiif/book1/range/r1",
+              "@type": "sc:Range",
+              "label": "Göttinger Pisanello-Zeichnung",
+              "canvases": ["http://c21f4722-9c52-4c0f-bddf-d6f79210985e"],
+
+          "@id": "http://example.org/iiif/book1/range/r1",
+              "@type": "sc:Range",
+              "label": "Pisanello-Zeichnung aus der Albertina",
+              "canvases": ["http://81d9d6a0-7606-47ca-8dbe-a58be6f37443"]
         }
       ]}
