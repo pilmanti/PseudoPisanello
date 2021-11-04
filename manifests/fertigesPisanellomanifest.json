@@ -130,20 +130,20 @@
                 }
           ]
         },
-        {
-          	"@id": "http://example.org/iiif/book1/range/r1",
+               {
+          "@id": "http://example.org/iiif/book1/range/r1",
               "@type": "sc:Range",
               "label": "Eustachius",
-              "canvases": ["http://6572ea6b-1673-46b4-a600-a691f285c703"],
+          "canvases": ["http://6572ea6b-1673-46b4-a600-a691f285c703"]},
           
-      	 	 "@id": "http://example.org/iiif/book1/range/r1",
+      	{ "@id": "http://example.org/iiif/book1/range/r2",
               "@type": "sc:Range",
               "label": "Göttinger Pisanello-Zeichnung",
-              "canvases": ["http://c21f4722-9c52-4c0f-bddf-d6f79210985e"],
-			 
-		"@id": "http://example.org/iiif/book1/range/r1",
+         "canvases": ["http://c21f4722-9c52-4c0f-bddf-d6f79210985e"]},
+          
+        {"@id": "http://example.org/iiif/book1/range/r3",
               "@type": "sc:Range",
               "label": "Albertina Pisanello-Zeichnung",
-              "canvases": ["http://81d9d6a0-7606-47ca-8dbe-a58be6f37443"]
+         "canvases": ["http://81d9d6a0-7606-47ca-8dbe-a58be6f37443"]
         }
       ]}
