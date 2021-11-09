@@ -1,0 +1,67 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "In Pisanellos Werk finden sich sehr viele Darstellungen von Jagdjunden, wie z.B. in dem Gem&auml;lde&nbsp;Der Heilige Eustachius&nbsp;in der National Gallery, die gut als Vergleichsobjekt f&uuml;r die G&ouml;ttinger Zeichnung herangezogen werden k&ouml;nnen.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>In Pisanellos Werk finden sich sehr viele Darstellungen von Jagdjunden, wie z.B. in dem Gem&auml;lde&nbsp;<em>Der Heilige Eustachius&nbsp;</em>in der National Gallery, die gut als Vergleichsobjekt f&uuml;r die G&ouml;ttinger Zeichnung herangezogen werden k&ouml;nnen.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pisanello",
+      "@type" : "oa:Tag",
+      "chars" : "Pisanello"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Windhund",
+      "@type" : "oa:Tag",
+      "chars" : "Windhund"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Q311082 Wikidata",
+      "@type" : "oa:Tag",
+      "chars" : "Q311082 Wikidata"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "182305058 GND",
+      "@type" : "oa:Tag",
+      "chars" : "182305058 GND"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "500027080 ULAN",
+      "@type" : "oa:Tag",
+      "chars" : "500027080 ULAN"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "43C1147  Iconclass",
+      "@type" : "oa:Tag",
+      "chars" : "43C1147  Iconclass"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ölgemälde",
+      "@type" : "oa:Tag",
+      "chars" : "Ölgemälde"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/91268872",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2021-11-04T11:38:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1636025927132",
+    "dcterms:modified" : "2021-11-09T13:04:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/fertigesPisanellomanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=355,365,297,293"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M354.5014,365.47953h148.64429v0h148.64429v146.26023v146.26023h-148.64429h-148.64429v-146.26023z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_c17d918f-06c9-464b-a6c8-74802d548a15\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"4.51716\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://6572ea6b-1673-46b4-a600-a691f285c703"
+    } ]
+  } ],
+  "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/91268872/3aa29b423682481443618d2a280b9dda.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
