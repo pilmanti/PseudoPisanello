@@ -43,7 +43,7 @@
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/91268872",
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "dcterms:created" : "2021-11-04T12:19:35",
-    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1636028375826",
+    "@id" : "https://pilmanti.github.io/PseudoPisanello/annotations/b6a7fdcb5fd04cea9ca16ba693bd82a9.json",
     "dcterms:modified" : "2021-11-09T13:03:18",
     "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
     "on" : [ {
@@ -66,6 +66,6 @@
       "full" : "http://81d9d6a0-7606-47ca-8dbe-a58be6f37443"
     } ]
   } ],
-  "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/91268872/b6a7fdcb5fd04cea9ca16ba693bd82a9.json",
+  "@id" : "https://pilmanti.github.io/PseudoPisanello/annotations/b6a7fdcb5fd04cea9ca16ba693bd82a9.json",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
 }
