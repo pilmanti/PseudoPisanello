@@ -3,6 +3,10 @@
   "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/fertigesPisanellomanifest.json",
   "@type" : "sc:Manifest",
   "label" : "Pisanello Hundezeichnung",
+  "service": {
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "SEARCH_ID",
+    "@context": "http://iiif.io/api/search/0/context.json"},
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Eine Hundezeichnung aus der Kunstsammlung der Universität Göttingen",
