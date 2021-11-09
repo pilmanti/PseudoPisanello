@@ -48,7 +48,7 @@
       } ],
       
     	"otherContent": [ {
-       	 	"@id": "https://dev.gdmrdigital.com/annotations/1245635613/91268872/3aa29b423682481443618d2a280b9dda.json",
+       	 	"@id": "https://pilmanti.github.io/PseudoPisanello/annotations/3aa29b423682481443618d2a280b9dda.json",
         	"@type": "sc:AnnotationList",
         	"label": "My fantastic annotations"
     }],
@@ -86,7 +86,7 @@
         "on" : "http://c21f4722-9c52-4c0f-bddf-d6f79210985e"
       } ],
        "otherContent": [ {
-        "@id": "https://dev.gdmrdigital.com/annotations/1245635613/91268872/c7ac5a972d220d19c6c1f02390c1e378.json",
+        "@id": "https://pilmanti.github.io/PseudoPisanello/annotations/3c7ac5a972d220d19c6c1f02390c1e378.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }],
@@ -117,7 +117,7 @@
         "on" : "http://81d9d6a0-7606-47ca-8dbe-a58be6f37443"
       } ],
        "otherContent": [ {
-        "@id": "https://dev.gdmrdigital.com/annotations/1245635613/91268872/b6a7fdcb5fd04cea9ca16ba693bd82a9.json",
+        "@id": "https://pilmanti.github.io/PseudoPisanello/annotations/b6a7fdcb5fd04cea9ca16ba693bd82a9.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }],
