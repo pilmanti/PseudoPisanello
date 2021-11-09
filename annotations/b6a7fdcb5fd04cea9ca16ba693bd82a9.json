@@ -1,0 +1,71 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-9dbb84ec-7fff-50e9-4292-4d68b9418457\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;der Zeichner des G&ouml;ttinger Blattes etwa gro&szlig;en Wert auf die plastische Ausgestaltung der Muskulatur in gebogenen Schraffuren, teilweise Kreuzschraffur, die sich laut Elen erst um 1400, nach Fischer ab ca. 1450 entwickelte. Pisanello und sein Umkreis arbeiteten sparsamer mit Schraffuren, siehe Drei Hundestudien aus der Albertina in Wien. Die grazilen K&ouml;rper, das Fell zumindest angedeutet, passen nicht zu der Modellierung und der unnat&uuml;rlichen Haltung des G&ouml;ttinger Hundes.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-9dbb84ec-7fff-50e9-4292-4d68b9418457\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;der Zeichner des G&ouml;ttinger Blattes etwa gro&szlig;en Wert auf die plastische Ausgestaltung der Muskulatur in gebogenen Schraffuren, teilweise Kreuzschraffur, die sich laut Elen erst um 1400, nach Fischer ab ca. 1450 entwickelte. Pisanello und sein Umkreis arbeiteten sparsamer mit Schraffuren, siehe <em>Drei Hundestudien</em> aus der Albertina in Wien. Die grazilen K&ouml;rper, das Fell zumindest angedeutet, passen nicht zu der Modellierung und der unnat&uuml;rlichen Haltung des G&ouml;ttinger Hundes.</span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "500027080 ULAN",
+      "@type" : "oa:Tag",
+      "chars" : "500027080 ULAN"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "182305058 GND",
+      "@type" : "oa:Tag",
+      "chars" : "182305058 GND"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Q311082 Wikidata",
+      "@type" : "oa:Tag",
+      "chars" : "Q311082 Wikidata"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "43C1147 Iconclass",
+      "@type" : "oa:Tag",
+      "chars" : "43C1147 Iconclass"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "7759578-6 GND",
+      "@type" : "oa:Tag",
+      "chars" : "7759578-6 GND"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Windhund",
+      "@type" : "oa:Tag",
+      "chars" : "Windhund"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Federzeichnung",
+      "@type" : "oa:Tag",
+      "chars" : "Federzeichnung"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pisanello",
+      "@type" : "oa:Tag",
+      "chars" : "Pisanello"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/91268872",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2021-11-04T12:19:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1636028375826",
+    "dcterms:modified" : "2021-11-09T13:03:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/fertigesPisanellomanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=110,85,578,386"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M109.68881,85.44406h288.87762v0h288.87762v193.08217v193.08217h-288.87762h-288.87762v-193.08217z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_7cf5b09e-bafb-4c81-a0a7-ee3d1823b4a4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.78719\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://81d9d6a0-7606-47ca-8dbe-a58be6f37443"
+    } ]
+  } ],
+  "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/91268872/b6a7fdcb5fd04cea9ca16ba693bd82a9.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
