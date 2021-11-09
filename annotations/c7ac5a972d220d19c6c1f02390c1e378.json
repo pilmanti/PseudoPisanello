@@ -1,0 +1,96 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-e1c28b71-7fff-117b-764b-2e767b1b32c1\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Die Provenienz des Blattes liefert leider keine Anhaltspunkte einer historischen Zuschreibung: Das Blatt tr&auml;gt zwar den Stempel des G&ouml;ttinger Altbestandes, es taucht aber nicht in dem Inventar Fiorillos um 1800 auf.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-e1c28b71-7fff-117b-764b-2e767b1b32c1\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Die Provenienz des Blattes liefert leider keine Anhaltspunkte einer historischen Zuschreibung: Das Blatt tr&auml;gt zwar den Stempel des G&ouml;ttinger Altbestandes, es taucht aber nicht in dem Inventar Fiorillos um 1800 auf.</span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Provenienz",
+      "@type" : "oa:Tag",
+      "chars" : "Provenienz"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fiorillo",
+      "@type" : "oa:Tag",
+      "chars" : "Fiorillo"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/91268872",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2021-11-04T12:12:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1636027945420",
+    "dcterms:modified" : "2021-11-04T12:18:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/fertigesPisanellomanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2668,1424,594,508"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3174.98291,1857.99963c-54.87697,42.68395 -132.28982,74.46924 -210.07782,74.43126v0v0c-77.788,-0.03798 -145.55439,-29.7726 -210.07782,-74.43126c-64.52343,-44.65866 -89.60287,-112.70983 -87.01708,-179.69295c2.58579,-66.98312 32.8368,-132.89818 87.01708,-179.69295c54.18028,-46.79477 132.28982,-74.46924 210.07782,-74.43126c77.788,0.03798 155.25444,27.78839 210.07782,74.43126c54.82338,46.64287 87.00368,112.17818 87.01708,179.69295c0.0134,67.51477 -32.14011,137.009 -87.01708,179.69295z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_097846db-4da0-4228-ba1b-e5b3c0ca515b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"14.51929\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c21f4722-9c52-4c0f-bddf-d6f79210985e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-b934752f-7fff-502b-6203-704b31af64c5\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&bdquo;Der eigent&uuml;mliche Kontrast zwischen dem ornamental geringelten Schwanz und dem naturalistisch durchgestalteten K&ouml;rper des Hundes&ldquo;, f&auml;llt Jochen Wagner besonders auf. Diese Ornamentalit&auml;t spricht daf&uuml;r, dass der Hund nicht f&uuml;r realit&auml;tsnahe Szenen, sondern als Muster, vielleicht als &Uuml;bung oder f&uuml;r den Gebrauch in verschiedenen Kontexten gedacht war.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-b934752f-7fff-502b-6203-704b31af64c5\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&bdquo;Der eigent&uuml;mliche Kontrast zwischen dem ornamental geringelten Schwanz und dem naturalistisch durchgestalteten K&ouml;rper des Hundes&ldquo;, f&auml;llt Jochen Wagner besonders auf. Diese Ornamentalit&auml;t spricht daf&uuml;r, dass der Hund nicht f&uuml;r realit&auml;tsnahe Szenen, sondern als Muster, vielleicht als &Uuml;bung oder f&uuml;r den Gebrauch in verschiedenen Kontexten gedacht war.</span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "7759578-6 GND",
+      "@type" : "oa:Tag",
+      "chars" : "7759578-6 GND"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Windhund",
+      "@type" : "oa:Tag",
+      "chars" : "Windhund"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "43C1147  Iconclass",
+      "@type" : "oa:Tag",
+      "chars" : "43C1147  Iconclass"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Federzeichnung",
+      "@type" : "oa:Tag",
+      "chars" : "Federzeichnung"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/91268872",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2021-11-04T12:18:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1636028289555",
+    "dcterms:modified" : "2021-11-09T13:05:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pilmanti.github.io/PseudoPisanello/manifests/fertigesPisanellomanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1743,172,1185,747"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1742.73442,172.17953h592.66098v0h592.66098v373.66172v373.66172h-592.66098h-592.66098v-373.66172z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_8b6f1e9d-f768-4387-bc05-de36905a8c22\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"13.45538\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c21f4722-9c52-4c0f-bddf-d6f79210985e"
+    } ]
+  } ],
+  "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/91268872/c7ac5a972d220d19c6c1f02390c1e378.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
