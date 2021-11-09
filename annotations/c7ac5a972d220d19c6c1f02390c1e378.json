@@ -19,7 +19,7 @@
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/91268872",
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "dcterms:created" : "2021-11-04T12:12:25",
-    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1636027945420",
+    "@id" : "https://pilmanti.github.io/PseudoPisanello/annotations/c7ac5a972d220d19c6c1f02390c1e378.json",
     "dcterms:modified" : "2021-11-04T12:18:23",
     "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
     "on" : [ {
@@ -68,7 +68,7 @@
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/91268872",
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "dcterms:created" : "2021-11-04T12:18:09",
-    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1636028289555",
+    "@id" : "https://pilmanti.github.io/PseudoPisanello/annotations/c7ac5a972d220d19c6c1f02390c1e378.json",
     "dcterms:modified" : "2021-11-09T13:05:02",
     "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
     "on" : [ {
@@ -91,6 +91,6 @@
       "full" : "http://c21f4722-9c52-4c0f-bddf-d6f79210985e"
     } ]
   } ],
-  "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/91268872/c7ac5a972d220d19c6c1f02390c1e378.json",
+  "@id" : "https://pilmanti.github.io/PseudoPisanello/annotations/c7ac5a972d220d19c6c1f02390c1e378.json",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
 }
